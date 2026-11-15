@@ -102,7 +102,7 @@ After execution, the scraped data will be saved in the output folder.
 
 ## Author
 
-Developed by [Your Name]
+Developed by MIKAL
 
 If you found this project useful, feel free to star the repository and connect with me on LinkedIn.
 
