@@ -1,4 +1,4 @@
-![Image](https://github.com/user-attachments/assets/594a1d67-508d-4379-aeb2-f2b8f3adfda8)
+<img width="456" height="632" alt="Screenshot 2026-11-14 162937" src="https://github.com/user-attachments/assets/a113133f-40ab-4434-a5bd-b07cd79e2628" />
 # Python Web Scraping Project
 
 ## Overview
